@@ -18,3 +18,4 @@ C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Atesta2\obj\Debu
 C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Atesta2\obj\Debug\Atesta2.csproj.CoreCompileInputs.cache
 C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Atesta2\obj\Debug\Atesta2.exe
 C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Atesta2\obj\Debug\Atesta2.pdb
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Atesta2\obj\Debug\Atesta2.Formularios.Frm_Permiso.resources
