@@ -1,0 +1,9 @@
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\bin\Debug\Comandos.dll.config
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\bin\Debug\Comandos.dll
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\bin\Debug\Comandos.pdb
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\bin\Debug\MySql.Data.dll
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\bin\Debug\MySql.Data.xml
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\obj\Debug\Comandos.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\obj\Debug\Comandos.dll
+C:\Users\Ernesto\Documents\Visual Studio 2017\Proyectos\Atesta2\Comandos\obj\Debug\Comandos.pdb
